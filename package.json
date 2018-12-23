@@ -1,0 +1,26 @@
+{
+  "name": "js-nmsrv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "nats",
+    "microservice"
+  ],
+  "author": {
+    "name": "Sorin Zaporojan"
+  },
+  "license": "Apache-2.0",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/szapo/js-nmsrv.git"
+  },
+  "dependencies": {
+    "ts-nats": "^1.0.4"
+  }
+}
